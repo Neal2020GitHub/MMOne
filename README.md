@@ -1,2 +1,7 @@
-# MMOne
-Official code for "MMOne: Representing Multiple Modalities in One Scene" (ICCV 2025)
+# MMOne: Representing Multiple Modalities in One Scene
+
+## Code
+To be released
+
+## BibTeX
+
