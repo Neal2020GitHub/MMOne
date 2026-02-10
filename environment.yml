@@ -6,7 +6,7 @@ channels:
 dependencies:
   - cudatoolkit=11.6
   - plyfile
-  - python=3.7.13
+  - python=3.7.16
   - pip=22.3.1
   - pytorch=1.12.1
   - torchaudio=0.12.1
@@ -18,8 +18,9 @@ dependencies:
   - matplotlib
   - typing
   - pathlib
-  - ipdb
-  - open-clip-torch
+  - ftfy==6.1.1
+  - open-clip-torch==2.24.0
+  - mediapy==1.1.2
   - pip:
     - submodules/diff-gaussian-rasterization
     - submodules/language-rasterization
