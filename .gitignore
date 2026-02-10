@@ -1,0 +1,5 @@
+data/
+autoencoder/ckpt/
+build/
+**/__pycache__/
+output/
