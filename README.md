@@ -1,15 +1,32 @@
-# MMOne: Representing Multiple Modalities in One Scene (ICCV 2025)
+<div align="center">
 
-This is the official implementation of **MMOne**.
+<h1>MMOne: Representing Multiple Modalities in One Scene</h1>
 
-**MMOne: Representing Multiple Modalities in One Scene** <br />
-Zhifeng Gu and Bing Wang <br />
-**[[Paper](https://arxiv.org/pdf/2507.11129)]** <br />
+<hr>
 
-<p align="center"> 
-  <img src="./assets/teaser.png" width="100%"> 
+<p>
+  <a href="https://arxiv.org/pdf/2507.11129">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.11129-9f1d20?labelColor=4d4d4d&style=flat-square">
+  </a>
+  <a href="https://iccv.thecvf.com/virtual/2025/poster/2177">
+    <img alt="ICCV 2025" src="https://img.shields.io/badge/ICCV-2025-1b78b9?labelColor=4d4d4d&style=flat-square">
+  </a>
+  <a href="./LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-b99a00?labelColor=4d4d4d&style=flat-square">
+  </a>
 </p>
 
+<p>
+  <strong>Zhifeng Gu</strong> &nbsp;&nbsp; <strong>Bing Wang</strong>
+</p>
+
+<p>
+  Spatial Intelligence Group, The Hong Kong Polytechnic University
+</p>
+
+<img src="./assets/teaser.png" width="95%" alt="MMOne overview">
+
+</div>
 
 
 ## Installation
@@ -126,3 +143,7 @@ This project builds upon [3DGS](https://github.com/graphdeco-inria/gaussian-spla
     pages     = {1088-1098}
 }
 ```
+
+
+## License
+This project is licensed under the [MIT License](./LICENSE).
