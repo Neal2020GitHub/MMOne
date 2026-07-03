@@ -5,14 +5,14 @@
 <hr>
 
 <p>
-  <a href="https://arxiv.org/pdf/2507.11129">
-    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.11129-9f1d20?labelColor=4d4d4d&style=flat-square">
+  <a href="https://arxiv.org/abs/2507.11129">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.11129-b31b1b.svg">
   </a>
   <a href="https://iccv.thecvf.com/virtual/2025/poster/2177">
-    <img alt="ICCV 2025" src="https://img.shields.io/badge/ICCV-2025-1b78b9?labelColor=4d4d4d&style=flat-square">
+    <img alt="ICCV 2025" src="https://img.shields.io/badge/ICCV-2025-0096FF.svg">
   </a>
   <a href="./LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-b99a00?labelColor=4d4d4d&style=flat-square">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg">
   </a>
 </p>
 
