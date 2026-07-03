@@ -127,7 +127,7 @@ This project builds upon [3DGS](https://github.com/graphdeco-inria/gaussian-spla
 
 
 ## Citation
-```
+```bibtex
 @InProceedings{Gu_2025_ICCV,
     author    = {Gu, Zhifeng and Wang, Bing},
     title     = {MMOne: Representing Multiple Modalities in One Scene},
